@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using NUnit.Framework;
 
-//  _  _     _  _  _  _  _
-//| _| _||_||_ |_   ||_||_|
-//||_  _|  | _||_|  ||_| _| 
+//    _  _     _  _  _  _  _
+//  | _| _||_||_ |_   ||_||_|
+//  ||_  _|  | _||_|  ||_| _| 
 
 namespace NumbersToLcd
 {
